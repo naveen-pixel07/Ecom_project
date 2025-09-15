@@ -1,0 +1,41 @@
+div{
+    height: 560px;
+    width: 175px;
+    background-color: rgb(247, 245, 245);
+    border-radius: 30px;
+    
+    
+}
+#red{
+    
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: red;
+    position: fixed;
+    top:300px;
+    
+}
+#yellow{
+    
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: relative;
+    top: 700px;
+    
+}
+#green{
+    
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: green;
+    position: sticky;
+    top: 100px;
+    right: 200px;
+}
+#col{
+    margin-left: 25px;
+}
